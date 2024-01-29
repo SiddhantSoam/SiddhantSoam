@@ -21,7 +21,7 @@ Graduate student at NJIT with a CDPA of 3.95, set to graduate in May 2024. High 
 
 - AWS Cloud Practitioner Certificate
 
-- Coursera Certificate on Meachine Learning by Andrew Ng
+- Coursera Certificate on Machine Learning by Andrew Ng
 
 ## Links
 
