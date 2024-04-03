@@ -7,7 +7,7 @@ Graduate student at NJIT with a CGPA of 3.95, set to graduate in May 2024. High 
 
 ## Experience 💼
 
-- Algorithm Engineer Intern @ UVeye
+- ML Algorithm Engineer (Computer Vision) Intern @ UVeye
 
 - Graduate Tutor and Teaching Assistant @ New Jersey Institute of Technology
 
