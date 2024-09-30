@@ -1,11 +1,12 @@
 ### Siddhant Soam
 
-- Looking for full time SDE/MLE roles starting from May 2024.
+- ML Engineer @ NeuroTechR3.
 ## About Me 🙋‍♂️
 
-Graduate student at NJIT with a CGPA of 3.95, set to graduate in May 2024. High performing Computer Science professional 📊 with over 3 years of experience in software development and data science domains. Proven track record in writing optimized software codes, machine learning and developing production-ready 🏭 ML models. Specialized in Data structures, algorithms and competitive coding, having solved over 400 problems on LeetCode.
+High performing Computer Science professional 📊 with over 3 years of experience in software development and data science domains. Proven track record in writing optimized software codes, machine learning and developing production-ready 🏭 ML models. Specialized in Data structures, algorithms and competitive coding, currently placed in the top 2% globally on LeetCode.
 
 ## Experience 💼
+- ML Engineer @ NeuroTechR3
 
 - ML Algorithm Engineer (Computer Vision) Intern @ UVeye
 
