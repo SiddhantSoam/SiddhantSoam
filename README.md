@@ -1,11 +1,15 @@
 ### Siddhant Soam
 
-- ML Engineer @ NeuroTechR3.
+- ML Engineer @ Meta.
 ## About Me 🙋‍♂️
 
 High performing Computer Science professional 📊 with over 3 years of experience in software development and data science domains. Proven track record in writing optimized software codes, machine learning and developing production-ready 🏭 ML models. Specialized in Data structures, algorithms and competitive coding, currently placed in the top 2% globally on LeetCode.
 
 ## Experience 💼
+- ML Engineer @ Meta
+
+- ML Engineer @ GEICO
+  
 - ML Engineer @ NeuroTechR3
 
 - ML Algorithm Engineer (Computer Vision) Intern @ UVeye
